@@ -1,0 +1,7 @@
+﻿  KineticNeuralNetwork_.cpp
+c:\users\jason\source\repos\kineticneuralnetwork_\kineticneuralnetwork_\kineticneuralnetwork_.cpp(27): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\jason\source\repos\kineticneuralnetwork_\kineticneuralnetwork_\kineticneuralnetwork_.cpp(39): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\jason\source\repos\kineticneuralnetwork_\kineticneuralnetwork_\kineticneuralnetwork_.cpp(40): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\jason\source\repos\kineticneuralnetwork_\kineticneuralnetwork_\kineticneuralnetwork_.cpp(194): warning C4244: '正在初始化': 將 'std::streamoff' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jason\source\repos\kineticneuralnetwork_\kineticneuralnetwork_\kineticneuralnetwork_.cpp(687): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  KineticNeuralNetwork_.vcxproj -> C:\Users\jason\source\repos\KineticNeuralNetwork_\Debug\KineticNeuralNetwork_.exe
