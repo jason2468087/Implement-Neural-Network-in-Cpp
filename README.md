@@ -20,6 +20,10 @@ outputIsLabel | Set true if label is an integer ranging (0-no. class), set false
 
 ## Result
 
+Input image
+![alt text](https://github.com/jason2468087/KineticNeuralNetwork/blob/main/Result/2.jpg?raw=true)
+
+Console Output
 ![alt text](https://github.com/jason2468087/KineticNeuralNetwork/blob/main/Result/KNN%20acc_time.png?raw=true)
 
 ![alt text](https://github.com/jason2468087/KineticNeuralNetwork/blob/main/Result/KNN%20Plot.png?raw=true)
