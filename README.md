@@ -18,6 +18,8 @@ TEST_PERIOD | Program will run a test for every TEST_PERIOD of iter
 BATCH_SIZE | Batch size
 outputIsLabel | Set true if label is an integer ranging (0-no. class), set false if label is binary array with size of no. class 
 
+## Result
+
 ![alt text](https://github.com/jason2468087/KineticNeuralNetwork/blob/main/Result/KNN%20acc_time.png?raw=true)
 
 ![alt text](https://github.com/jason2468087/KineticNeuralNetwork/blob/main/Result/KNN%20Plot.png?raw=true)
