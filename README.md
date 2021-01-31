@@ -7,7 +7,6 @@ This is a Kinetic Neural Network built from scratch in C++. Not only function pr
 Attempt | #1 
 --- | --- 
 Seconds | 301 
---- | --- 
 Seconds | 301 
 
 ![alt text](https://github.com/jason2468087/KineticNeuralNetwork/blob/main/Result/KNN%20acc_time.png?raw=true)
