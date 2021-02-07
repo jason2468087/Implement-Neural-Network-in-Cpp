@@ -3,6 +3,16 @@
 ## Introduction
 This is a Kinetic Neural Network built from scratch in C++. Not only function properly, it was also well optimized to minimize training time. The network is able to read both CSV and common image file as input. You can tweak the parameters to adjust input/output size or training performance.
 
+## Dependencies
+- C++ 17
+
+## Skills
+- Full understanding of neural network algorithm mathematics
+- Heap memory management
+- Object oriented programming
+- CSV file I/O
+- Understanding of program latency
+
 ## Parameter
 Parameter | Description 
 --- | --- 
